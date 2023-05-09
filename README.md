@@ -5,7 +5,7 @@ Este projeto hospeda **amostras** de software livre para Azure Health Data Servi
 
 ## Exemplos
 
-This project provides samples outlining example implementations of various use cases across stages of health data workflows. The "samples" folder contains all the sample apps organized by use case. The samples are listed here:
+Este projeto fornece exemplos descrevendo implementações de exemplo de vários casos de uso em estágios de fluxos de trabalho de dados de saúde. A pasta "amostras" contém todos os aplicativos de amostra organizados por caso de uso. As amostras estão listadas aqui:
 
 <!---
 ### Data ingestion into Health Data Services
