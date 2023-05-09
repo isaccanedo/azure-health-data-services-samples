@@ -1,4 +1,4 @@
-# Azure Health Data Services Samples Repo
+# Repositório de amostras de serviços de dados do Azure Health
 The Azure Health Data Services Samples Repo is a set of sample apps and sample code provided to help you get started with Azure Health Data Services, learn how to use our products, and accelerate your implementations. 
 
 This project hosts open-source **samples** for Azure Health Data Services. To learn more about Azure Health Data Services, please refer to the managed service documentation [here.](https://learn.microsoft.com/en-us/azure/healthcare-apis/healthcare-apis-overview)
