@@ -16,7 +16,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 
 
 
-### Analytics and machine learning
+### Análise e aprendizado de máquina
 |Sample|Description|
 | --- | --- |
 | FHIR Delta Lake with Databricks | End-to-end sample showing data from FHIR Service into Databricks Delta Lake Bronze, Silver, and Gold Levels |
