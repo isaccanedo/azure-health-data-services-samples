@@ -8,7 +8,7 @@ Este projeto hospeda **amostras** de software livre para Azure Health Data Servi
 Este projeto fornece exemplos descrevendo implementações de exemplo de vários casos de uso em estágios de fluxos de trabalho de dados de saúde. A pasta "amostras" contém todos os aplicativos de amostra organizados por caso de uso. As amostras estão listadas aqui:
 
 <!---
-### Data ingestion into Health Data Services
+### Ingestão de dados nos serviços de dados de saúde
 
 |Sample|Description|
 | --- | --- |
