@@ -3,7 +3,7 @@ O repositório de exemplos do Azure Health Data Services é um conjunto de aplic
 
 Este projeto hospeda **amostras** de software livre para Azure Health Data Services. Para saber mais sobre o Azure Health Data Services, consulte a documentação do serviço gerenciado [aqui.](https://learn.microsoft.com/en-us/azure/healthcare-apis/healthcare-apis-overview)
 
-## Samples
+## Exemplos
 
 This project provides samples outlining example implementations of various use cases across stages of health data workflows. The "samples" folder contains all the sample apps organized by use case. The samples are listed here:
 
