@@ -10,7 +10,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 <!---
 ### Ingestão de dados nos serviços de dados de saúde
 
-|Exemplo|Description|
+|Exemplo|Descrição|
 | --- | --- |
 | [Sample HL7v2 Data Ingestion Pipeline]() | Sample app that shows how to ingest HL7v2 data into FHIR server, including conversion and validation. |
 
