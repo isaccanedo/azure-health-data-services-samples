@@ -15,7 +15,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 |[Exemplo de pipeline de ingestão de dados HL7v2]() | Aplicativo de amostra que mostra como ingerir dados HL7v2 no servidor FHIR, incluindo conversão e validação. |
 
 ### Análise e aprendizado de máquina
-|Sample|Description|
+|Exemplo|Description|
 | --- | --- |
 | FHIR Delta Lake with Databricks | End-to-end sample showing data from FHIR Service into Databricks Delta Lake Bronze, Silver, and Gold Levels |
 | PowerBI Dashboard using Analytics pipelines | Sample showing how to query FHIR data in Parquet file format (in Azure Data LAke) and Serverless SQL tables to calculate digital quality measures and visualize stratified measure data in PowerBI.|
