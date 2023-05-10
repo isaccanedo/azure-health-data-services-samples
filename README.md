@@ -17,7 +17,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 ### Análise e aprendizado de máquina
 |Exemplo|Descrição|
 | --- | --- |
-| FHIR Delta Lake com Databricks | End-to-end sample showing data from FHIR Service into Databricks Delta Lake Bronze, Silver, and Gold Levels |
+| FHIR Delta Lake com Databricks | Exemplo de ponta a ponta mostrando dados do serviço FHIR nos níveis Databricks Delta Lake Bronze, Silver e Gold |
 | PowerBI Dashboard using Analytics pipelines | Sample showing how to query FHIR data in Parquet file format (in Azure Data LAke) and Serverless SQL tables to calculate digital quality measures and visualize stratified measure data in PowerBI.|
 
 ### Other integrations
