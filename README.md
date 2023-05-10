@@ -12,9 +12,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 
 |Exemplo|Descrição|
 | --- | --- |
-|[Exemplo de pipeline de ingestão de dados HL7v2]() | Sample app that shows how to ingest HL7v2 data into FHIR server, including conversion and validation. |
-
-
+|[Exemplo de pipeline de ingestão de dados HL7v2]() | Aplicativo de amostra que mostra como ingerir dados HL7v2 no servidor FHIR, incluindo conversão e validação. |
 
 ### Análise e aprendizado de máquina
 |Sample|Description|
