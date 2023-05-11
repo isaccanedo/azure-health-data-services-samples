@@ -27,7 +27,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 
 --->
 
-### Data ingestion
+### ingestão de dados
 
 |Sample|Description|
 | --- | --- |
