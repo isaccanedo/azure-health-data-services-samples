@@ -21,7 +21,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 | Painel do PowerBI usando pipelines do Analytics | Amostra mostrando como consultar dados FHIR no formato de arquivo Parquet (no Azure Data LAke) e tabelas SQL sem servidor para calcular medidas de qualidade digital e visualizar dados de medida estratificados no PowerBI.|
 
 ### Outras integrações
-|Sample|Description|
+|Exemplo|Description|
 | --- | --- |
 | FHIR to HL7v2 format for ingestion back into an EHR (coming soon)| Sample to convert FHIR data to HL7v2 format suitable for ingestion into an EHR. |
 
