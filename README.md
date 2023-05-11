@@ -23,7 +23,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 ### Outras integrações
 |Exemplo|Descrição|
 | --- | --- |
-| FHIR to HL7v2 format for ingestion back into an EHR (coming soon)| Sample to convert FHIR data to HL7v2 format suitable for ingestion into an EHR. |
+| Formato FHIR para HL7v2 para ingestão de volta em um EHR (em breve)| Sample to convert FHIR data to HL7v2 format suitable for ingestion into an EHR. |
 
 --->
 
