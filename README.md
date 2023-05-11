@@ -20,7 +20,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 | FHIR Delta Lake com Databricks | Exemplo de ponta a ponta mostrando dados do serviço FHIR nos níveis Databricks Delta Lake Bronze, Silver e Gold |
 | Painel do PowerBI usando pipelines do Analytics | Sample showing how to query FHIR data in Parquet file format (in Azure Data LAke) and Serverless SQL tables to calculate digital quality measures and visualize stratified measure data in PowerBI.|
 
-### Other integrations
+### Outras integrações
 |Sample|Description|
 | --- | --- |
 | FHIR to HL7v2 format for ingestion back into an EHR (coming soon)| Sample to convert FHIR data to HL7v2 format suitable for ingestion into an EHR. |
