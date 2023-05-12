@@ -37,7 +37,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 ### Exemplos de transações
 |Exemplo|Descrição|
 | --- | --- |
-| [Sample Postman queries](samples/sample-postman-queries) | Learn how to interact with FHIR data using Postman with this starter Postman collection of common Postman queries used to query FHIR server, including FHIR searches, creating, reading, updating, and deleting requests for FHIR resources, and other operations.|
+| [Exemplos de consultas do Postman](samples/sample-postman-queries) | Learn how to interact with FHIR data using Postman with this starter Postman collection of common Postman queries used to query FHIR server, including FHIR searches, creating, reading, updating, and deleting requests for FHIR resources, and other operations.|
 
 ### Analytics and machine learning
 |Sample|Description|
