@@ -34,7 +34,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 | [Migrate data from one Azure API for FHIR server to another API for FHIR server](samples/fhir-to-fhir/api-for-fhir-to-api-for-fhir) | Aplicativo de exemplo para copiar/migrar dados de uma API do Azure para servidor FHIR para outra API do Azure para servidor FHIR. |
 
 
-### Sample transactions
+### Exemplos de transações
 |Sample|Description|
 | --- | --- |
 | [Sample Postman queries](samples/sample-postman-queries) | Learn how to interact with FHIR data using Postman with this starter Postman collection of common Postman queries used to query FHIR server, including FHIR searches, creating, reading, updating, and deleting requests for FHIR resources, and other operations.|
