@@ -29,7 +29,7 @@ Este projeto fornece exemplos descrevendo implementações de exemplo de vários
 
 ### ingestão de dados
 
-|Exemplo|Description|
+|Exemplo|Descrição|
 | --- | --- |
 | [Migrate data from one Azure API for FHIR server to another API for FHIR server](samples/fhir-to-fhir/api-for-fhir-to-api-for-fhir) | Sample app for copying/migrating data from one Azure API for FHIR server to another Azure API for FHIR server. |
 
